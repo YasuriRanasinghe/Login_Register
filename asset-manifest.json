@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/YasuriRanasinghe/Login_Register.git/static/css/main.5fa51119.css",
+    "main.js": "/YasuriRanasinghe/Login_Register.git/static/js/main.1eb30cff.js",
+    "static/js/453.37be056d.chunk.js": "/YasuriRanasinghe/Login_Register.git/static/js/453.37be056d.chunk.js",
+    "static/media/background.jpg": "/YasuriRanasinghe/Login_Register.git/static/media/background.94530f641fdce343ca66.jpg",
+    "index.html": "/YasuriRanasinghe/Login_Register.git/index.html",
+    "main.5fa51119.css.map": "/YasuriRanasinghe/Login_Register.git/static/css/main.5fa51119.css.map",
+    "main.1eb30cff.js.map": "/YasuriRanasinghe/Login_Register.git/static/js/main.1eb30cff.js.map",
+    "453.37be056d.chunk.js.map": "/YasuriRanasinghe/Login_Register.git/static/js/453.37be056d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5fa51119.css",
+    "static/js/main.1eb30cff.js"
+  ]
+}
